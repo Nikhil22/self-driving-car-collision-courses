@@ -90,7 +90,7 @@ function findCollisionCourses(matrix) {
     row.forEach((el, colIdx) => {
       collisionCourses[
         [rowIdx, colIdx]
-      ] = findSquareMatricesWithCorner(
+      ] = findDiagonalsOf(
         matrix,
         [rowIdx, colIdx]
       );
@@ -105,7 +105,7 @@ function isUndefined(cand) {
 }
 
 //cache ?
-function findSquareMatricesWithCorner(matrix, [rowIdx, colIdx]) {
+function findDiagonalsOf(matrix, [rowIdx, colIdx]) {
   const out = [];
   const [originalRowIdx, originalColIdx] = [rowIdx, colIdx];
   const DIRECTIONS = [
