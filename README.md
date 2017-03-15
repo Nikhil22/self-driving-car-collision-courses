@@ -34,7 +34,7 @@ The key? Cars that are on a collision course are on the same diagonal!
   <li>0 signifies the coordinate is empty</li>
 </ul>
 
-'''javascript
+<pre>
   [0, 1, 1, 1, 0, 0, 1, 1, 0, 0]
   [1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
   [0, 1, 0, 0, 0, 0, 1, 0, 1, 1]
@@ -45,12 +45,12 @@ The key? Cars that are on a collision course are on the same diagonal!
   [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
   [1, 0, 1, 1, 1, 1, 1, 0, 0, 0]
   [1, 0, 0, 0, 1, 1, 1, 1, 0, 1]
-'''
+</pre>
 
 ## Output
 ### An Object, with key as stringed coordinates, and value as an an array of coordinates which are collision courses
 #### Example: The collision courses of (0,0) are coordinates (1,1), (3,3) & (9,9) because (1,1), (3,3) & (9,9) have cars in them
-'''javascript
+<pre>
 
   {
     0,0: [[1, 1], [3, 3], [9, 9]],
@@ -59,7 +59,7 @@ The key? Cars that are on a collision course are on the same diagonal!
     0,3: [[1, 4], [6, 9], [1, 2], [2, 1]],
     .....
   }
-'''
+</pre>
 
 ## Assumptions
 ### All cars in the same road are moving at the exact same speed. We make this assumption for 2 reasons
@@ -71,9 +71,6 @@ The key? Cars that are on a collision course are on the same diagonal!
 ## In data structure terms
 
 Given a 2D array, find all diagonals of all coordinates.
-
-More screenshots: [without text](Screenshots/empty.png) and [with
-text](Screenshots/text.png).
 
 ## To add
 <ol>
