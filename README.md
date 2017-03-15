@@ -78,6 +78,8 @@ Given a 2D array, find all diagonals of all coordinates.
   <li>More complexity</li>
 </ol>
 
-### Author
+## Inspiration
+<a href="https://www.youtube.com/watch?v=iHzzSao6ypE&t=17s" target="_blank">The Simple Solution To Traffic</a>
 
+### Author
 Nikhil Bhaskar
