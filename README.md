@@ -15,7 +15,7 @@ Take a look at these short animations and see if you notice something.
 ![demo](images/safe.gif)
 
 ## Diagonal
-### The key? Cars that are on a collision course are on the same diagonal!
+### The key? Cars that are on a collision course are on the same diagonal!. We know this because they are moving at the exact same speed. See the 'Assumptions' section below for more details about this.
 ![demo](images/diagonal.png)
 
 ## Usage
