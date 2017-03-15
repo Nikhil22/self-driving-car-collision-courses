@@ -26,7 +26,7 @@ The key? Cars that are on a collision course are on the same diagonal!. We know 
 </ol>
 
 ## Input
-### A 2D array, with 1s and 0s
+A 2D array, with 1s and 0s
 <ul>
   <li>1 signifies there is a car at the coordinate</li>
   <li>0 signifies the coordinate is empty</li>
@@ -46,8 +46,9 @@ The key? Cars that are on a collision course are on the same diagonal!. We know 
 </pre>
 
 ## Output
-### An Object, with key as stringed coordinates, and value as an an array of coordinates which are collision courses
-#### Example: The collision courses of (0,0) are coordinates (1,1), (3,3) & (9,9) because (1,1), (3,3) & (9,9) have cars in them
+An Object, with key as stringed coordinates, and value as an an array of coordinates which are collision courses
+
+Example: The collision courses of (0,0) are coordinates (1,1), (3,3) & (9,9) because (1,1), (3,3) & (9,9) have cars in them
 <pre>
 
   {
