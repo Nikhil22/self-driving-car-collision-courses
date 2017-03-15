@@ -14,10 +14,8 @@ Take a look at these short animations and see if you notice something.
 ## Safe
 ![demo](images/safe.gif)
 
-The key? Cars that are on a collision course are on the same diagonal!
-
 ## Diagonal
-## Collision
+### The key? Cars that are on a collision course are on the same diagonal!
 ![demo](images/diagonal.png)
 
 ## Usage
