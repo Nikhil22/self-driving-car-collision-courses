@@ -1,4 +1,4 @@
-# Self Driving Car: Find all collision courses given a N X M grid/array representing a road
+# Self Driving Car: Find all collision courses given a N X M grid/array representing a road full of self driving cars
 
 ## Problem
 
