@@ -79,7 +79,7 @@ Given a 2D array, find all diagonals of all coordinates.
 </ol>
 
 ## Inspiration
-[The Simple Solution To Traffic](https://www.youtube.com/watch?v=iHzzSao6ypE&t=17s){:target="_blank"} that opens in a new window.
+[The Simple Solution To Traffic](https://www.youtube.com/watch?v=iHzzSao6ypE&t=17s)
 
 
 ### Author
