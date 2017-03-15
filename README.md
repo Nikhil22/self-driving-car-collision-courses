@@ -81,4 +81,4 @@ Given a 2D array, find all diagonals of all coordinates.
 
 ### Author
 
-Nikhil Bhaskar ([@fphilipe](http://twitter.com/fphilipe))
+Nikhil Bhaskar
