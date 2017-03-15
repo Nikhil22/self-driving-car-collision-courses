@@ -15,15 +15,8 @@ Take a look at these short animations and see if you notice something.
 ![demo](images/safe.gif)
 
 ## Diagonal
-The key? Cars that are on a collision course are on the same diagonal!. We know this because they are moving at the exact same speed. See the 'Assumptions' section below for more details about this.
+The key? Cars that are on a collision course are on the same diagonal! We know this because they are moving at the exact same speed. See the 'Assumptions' section below for more details about this.
 ![demo](images/diagonal.png)
-
-## Usage
-<ol>
-  <li>Clone the repo</li>
-  <li>Open index.html in the browser</li>
-  <li>Open the console (right-click -> Inspect/Inspect Element) and see the output</li>
-</ol>
 
 ## Input
 A 2D array, with 1s and 0s
@@ -70,6 +63,13 @@ Example: The collision courses of (0,0) are coordinates (1,1), (3,3) & (9,9) bec
 ## In data structure terms
 
 Given a 2D array, find all diagonals of all coordinates.
+
+## Usage
+<ol>
+  <li>Clone the repo</li>
+  <li>Open index.html in the browser</li>
+  <li>Open the console (right-click -> Inspect/Inspect Element) and see the output</li>
+</ol>
 
 ## To add
 <ol>
