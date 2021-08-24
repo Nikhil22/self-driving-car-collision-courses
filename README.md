@@ -9,7 +9,7 @@ We can represent a road as an N X M grid. How can we tell whether 2 cars are on 
 Take a look at these short animations and see if you notice something.
 
 ## Collision
-![demo](images/collision.gif)
+![demo](images/crash.gif)
 
 ## Safe
 ![demo](images/safe.gif)
